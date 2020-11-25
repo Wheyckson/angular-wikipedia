@@ -1,6 +1,18 @@
-# Wsearch
+<h4 align="center"> 
+	🚀 Angular Search 🚀 
+</h4> 
+
+# # About
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
+
+<h1 align="center">
+    <img alt="searchAng" title="#searchAng" src="./src/assets/wsearch.gif" width="800"/> 
+</h1>
+
+## 🛠 Technologies
+
+This project was developed in Angular with the Wikipedia API ;
 
 ## Development server
 
